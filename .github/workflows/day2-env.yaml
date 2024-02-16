@@ -1,3 +1,4 @@
+name: Day2
 workflow_dispatch:
   inputs:
     environment:
